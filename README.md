@@ -1,5 +1,6 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Siddhika 
+Author - Siddhika (Apna College)
+
 
